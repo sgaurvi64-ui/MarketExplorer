@@ -1,0 +1,27 @@
+{
+  "model_name": "baseline_stock_model_long",
+  "features": [
+    "return_1d",
+    "return_5d",
+    "return_10d",
+    "volatility_10d",
+    "volume_change_5d",
+    "sma_gap_10_20",
+    "sma_gap_20_50",
+    "rsi_14",
+    "macd",
+    "macd_signal",
+    "macd_hist",
+    "atr_14",
+    "volume_zscore_20"
+  ],
+  "target": "target_up_30d_5pct",
+  "accuracy": 0.6769,
+  "precision": 0.2871,
+  "recall": 0.0715,
+  "f1": 0.1145,
+  "dataset": "training_features.csv",
+  "split_strategy": "2020-2023 vs 2024-2025",
+  "rows_train": 72211,
+  "rows_test": 46476
+}

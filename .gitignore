@@ -1,0 +1,15 @@
+.idea/
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.env.*
+
+# Backend local state
+backend/db.sqlite3
+
+# Firebase local config
+Flutter/android/app/google-services.json
+Flutter/ios/Runner/GoogleService-Info.plist

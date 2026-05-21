@@ -1,0 +1,87 @@
+symbol,exchange,name,sector
+RELIANCE,NS,Reliance Industries,Energy
+TCS,NS,Tata Consultancy Services,IT
+INFY,NS,Infosys,IT
+HDFCBANK,NS,HDFC Bank,Banking
+ICICIBANK,NS,ICICI Bank,Banking
+SBIN,NS,State Bank of India,Banking
+LT,NS,Larsen and Toubro,Infrastructure
+ITC,NS,ITC,FMCG
+AXISBANK,NS,Axis Bank,Banking
+BHARTIARTL,NS,Bharti Airtel,Telecom
+MARUTI,NS,Maruti Suzuki,Auto
+SUNPHARMA,NS,Sun Pharma,Healthcare
+TITAN,NS,Titan Company,Consumer
+KOTAKBANK,NS,Kotak Mahindra Bank,Banking
+BAJFINANCE,NS,Bajaj Finance,Financial Services
+HINDUNILVR,NS,Hindustan Unilever,FMCG
+ASIANPAINT,NS,Asian Paints,Consumer
+ULTRACEMCO,NS,UltraTech Cement,Materials
+HCLTECH,NS,HCL Technologies,IT
+WIPRO,NS,Wipro,IT
+TECHM,NS,Tech Mahindra,IT
+COALINDIA,NS,Coal India,Energy
+ONGC,NS,ONGC,Energy
+NTPC,NS,NTPC,Utilities
+POWERGRID,NS,Power Grid,Utilities
+ADANIENT,NS,Adani Enterprises,Conglomerate
+ADANIPORTS,NS,Adani Ports,Infrastructure
+ADANIGREEN,NS,Adani Green,Utilities
+ADANIPOWER,NS,Adani Power,Utilities
+JSWSTEEL,NS,JSW Steel,Materials
+TATASTEEL,NS,Tata Steel,Materials
+HINDALCO,NS,Hindalco,Materials
+VEDL,NS,Vedanta,Materials
+GRASIM,NS,Grasim Industries,Materials
+SHREECEM,NS,Shree Cement,Materials
+DRREDDY,NS,Dr Reddys,Healthcare
+DIVISLAB,NS,Divis Laboratories,Healthcare
+CIPLA,NS,Cipla,Healthcare
+APOLLOHOSP,NS,Apollo Hospitals,Healthcare
+BPCL,NS,BPCL,Energy
+IOC,NS,Indian Oil,Energy
+GAIL,NS,GAIL,Energy
+HEROMOTOCO,NS,Hero MotoCorp,Auto
+BAJAJFINSV,NS,Bajaj Finserv,Financial Services
+BAJAJ-AUTO,NS,Bajaj Auto,Auto
+EICHERMOT,NS,Eicher Motors,Auto
+M&M,NS,Mahindra and Mahindra,Auto
+TATAMOTORS,NS,Tata Motors,Auto
+DLF,NS,DLF,Real Estate
+GODREJCP,NS,Godrej Consumer,FMCG
+DABUR,NS,Dabur,FMCG
+MARICO,NS,Marico,FMCG
+BRITANNIA,NS,Britannia,FMCG
+NESTLEIND,NS,Nestle India,FMCG
+PIDILITIND,NS,Pidilite,Consumer
+SBILIFE,NS,SBI Life,Financial Services
+HDFCLIFE,NS,HDFC Life,Financial Services
+ICICIPRULI,NS,ICICI Prudential,Financial Services
+UPL,NS,UPL,Materials
+SIEMENS,NS,Siemens,Industrials
+ABB,NS,ABB India,Industrials
+BHEL,NS,BHEL,Industrials
+LTIM,NS,LTIMindtree,IT
+MPHASIS,NS,Mphasis,IT
+PEL,NS,Piramal Enterprises,Financial Services
+INDUSINDBK,NS,IndusInd Bank,Banking
+FEDERALBNK,NS,Federal Bank,Banking
+BANDHANBNK,NS,Bandhan Bank,Banking
+IDFCFIRSTB,NS,IDFC First Bank,Banking
+PNB,NS,Punjab National Bank,Banking
+CANBK,NS,Canara Bank,Banking
+SBICARD,NS,SBI Cards,Financial Services
+LICHSGFIN,NS,LIC Housing Finance,Financial Services
+PFC,NS,Power Finance,Financial Services
+RECLTD,NS,REC Ltd,Financial Services
+TORNTPHARM,NS,Torrent Pharma,Healthcare
+AUROPHARMA,NS,Aurobindo Pharma,Healthcare
+ALKEM,NS,Alkem Laboratories,Healthcare
+ICICIGI,NS,ICICI Lombard,Financial Services
+HAVELLS,NS,Havells,Consumer
+SRF,NS,SRF,Materials
+INDIGO,NS,InterGlobe Aviation,Services
+JINDALSTEL,NS,Jindal Steel,Materials
+NAUKRI,NS,Info Edge,Services
+PAYTM,NS,One97 Communications,Technology
+ZOMATO,NS,Zomato,Services
